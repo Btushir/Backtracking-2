@@ -9,6 +9,7 @@ characters are not repeated.
  The first branch would be the one where partition of length one are created, meaning [a, b, c]
  TC: 2^n * N to check palindrome
  SC: O(n) # height of tree
+ TOdo: solve 0-1 recursion
 """
 from typing import List
 
